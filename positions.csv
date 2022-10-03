@@ -5,15 +5,15 @@ education,TRUE,Candidate in Medical Lab Sciences,North Hennepin Community Colleg
 education,TRUE,High School Diploma,Spring Lake Park High School,"Sprint Lake Park, MN",2009,2013,Achieved high school diploma,Graduated with honors,This is factional.
 research_positions,TRUE,Graduate Research Assistant,XYZLab (Professor XYZ's Lab),Not Real University,2022,2022,Primarily working with large medical datasets.,Developing network-based methods to investigate and visualize clinically relevant patterns in data.,NA
 research_positions,TRUE,Data Science Researcher,Data Science Lab,Fake University,2020,2021,Building R applications in the contexts of statistics education.,Work primarily done in R Shiny and Javascript).,NA
-research_positions,TRUE,Teacher's Assistant,Business Analytics Lab,Fake University,2020,2020,Grading Business Analytics coursework,NA,NA
-research_positions,TRUE,The Best Teacher's Assistant,Fake Data Lab,Totally Not Real,2020,2022,Assisting other students during lab work,Adding in some words for fillers for this not real portion,NA
+research_positions,FALSE,Teacher's Assistant,Business Analytics Lab,Fake University,2020,2020,Grading Business Analytics coursework,NA,NA
+research_positions,FALSE,The Best Teacher's Assistant,Fake Data Lab,Totally Not Real,2020,2022,Assisting other students during lab work,Adding in some words for fillers for this not real portion,NA
 industry_positions,TRUE,Business Intelligence Analyst,Icario,"Minneapolis, MN",2022,Current,Reporter making visual reports covering topics in the healthcare insurance industry.,"Work primarily done in SQL, Tableau, and JIRA.",This is factional.
 industry_positions,TRUE,Implemtation Analyst,Accelerated Innovations,"St. Paul, MN",2021,2022,Implemented Software as a Service product for the utility industry.,"Work primarily done in SQL, Microsoft Suite, and SaaS product UI.",This is factional.
 industry_positions,TRUE,Business Systems Analyst,Optum,"Eden Prairie, MN",2021,2021,Product owner for multiple APIs in the healthcare industry.,"Work primarily done in SQL, Postman, test suites, and Rally.",This is factional.
 industry_positions,TRUE,Data Entry Operator,Frattallone's,"Circle Pines, MN",2020,2021,Data entry operator for over 25 hardware stores.,"Work primarily done in Microsoft Suite, and various entry software.",This is factional.
 industry_positions,TRUE,"Intelligence Analyst, E-5",United States Navy,N/A,2015,2019,Military intelligence analyst,Work primarily done is classified. This is factional.,Highest enlisted level obtained: Petty Officer Second Class (E-5)
-by_me_press,TRUE,[The Real Press](https://www.notrealarticle.com),The Not Real Times,N/A,2016,2016,Most shared and discussed article from the Not Real Times for August 2016.,This is fictional.,NA
+by_me_press,FALSE,[The Real Press](https://www.notrealarticle.com),The Not Real Times,N/A,2016,2016,Most shared and discussed article from the Not Real Times for August 2016.,This is fictional.,NA
 by_me_press,TRUE,[The Real Press](https://www.notrealarticle.com),The Not Real Times,N/A,2016,2016,Most shared and discussed article from the Not Real Times for August 2016.,This is fictional.,NA
 academic_articles,TRUE,Data Science Article: Super Interesting,Journal of Fake Data Science,N/A,2015,2015,"Authored with Michael Myers, Freddy Kruger, Jason.",NA,NA
-academic_articles,TRUE,Business Analytics: Reporting,Journal of Fake Business Analytics,N/A,2014,2015,"Authored with Doctor Best, Doctor Worst",NA,NA
-academic_articles,TRUE,Business Analytics: Visualizing,Journal of Fake Business Analytics,N/A,2014,2015,"Authored with Doctor Best, Doctor Worst",NA,NA
+academic_articles,FALSE,Business Analytics: Reporting,Journal of Fake Business Analytics,N/A,2014,2015,"Authored with Doctor Best, Doctor Worst",NA,NA
+academic_articles,FALSE,Business Analytics: Visualizing,Journal of Fake Business Analytics,N/A,2014,2015,"Authored with Doctor Best, Doctor Worst",NA,NA
